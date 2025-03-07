@@ -45,6 +45,8 @@ mensais.
 - A aplicação exibirá os resultados do cálculo, incluindo o valor das prestações
 mensais e o custo total do empréstimo.
 
+
+  [Video teste](https://drive.google.com/file/d/1v7EkU-Dpzb3SESOEchIBcFeJx0SldaZY/view?usp=drive_link)
 ## 📚 Tecnologias/Ferramentas utilizadas
 - Canva
 - Python
